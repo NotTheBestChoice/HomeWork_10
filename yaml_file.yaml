@@ -1,0 +1,7 @@
+age: 45
+children:
+- age: 3
+  name: Alice
+city: null
+married: true
+name: Peter
